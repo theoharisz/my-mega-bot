@@ -1,13 +1,14 @@
 {
-"name": "TEST",
-"description": "TEST",
-"version": "0.0.0"
-"main": "bot.js",
-"scripts" {
-  node bot.js"
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-"dependencies": {
-  "discord.js": "11.1.0",
-  "request": "2.81.0"
- }
-} 
+  "author": "Zendovo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
